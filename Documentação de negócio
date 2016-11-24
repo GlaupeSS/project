@@ -1,3 +1,18 @@
+Quando um departamento de TI de uma empresa (geralmente que não desenvolve software) procura identificar oportunidades para
+otimizar o funcionamento dos departamentos da empresa ou para prover um diferencial competitivo em relação aos concorrentes.
+
+
+
+
+Processos de Negócio: conjunto de atividades voltadas para a produção de um serviço ou produto;
+Regras de Negócio: conjunto de regras que especificam restrições que devem ser cumpridas;
+Trabalhadores de Negócio: papéis que trabalham no negócio;
+Atores de Negócio: stakeholders externos ao negócio, mas que com ele interagem.
+Concorrentes: concorrentes da empresa em questão;
+
+
+
+
 Trabalhadores Envolvidos:
 Engenheiro de Software, mais especificamente na qualidade de analista ou engenheiro
 de requisitos.
@@ -19,3 +34,9 @@ Quais são os principais dados descritivos do negócio;
 Quais são as principais atividades de negócio;
 Ao menos uma atividade de negócio detalhada com um diagrama de atividades ou equivalente;
 Algumas regras de negócio descritas.
+
+
+
+Regras de negócio:
+
+RN1: Situação de chamados
